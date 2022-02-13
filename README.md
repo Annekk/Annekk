@@ -9,3 +9,5 @@
 🇫🇮 Based in Tampere, Finland.
 
 🗨 Finnish, English, Swedish and a bit Spanish.
+
+👩🏻‍💼 LinkedIn: www.linkedin.com/in/anne-a-j-korhonen
