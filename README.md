@@ -6,7 +6,7 @@
 
 🤓 Learned Html, Css, JS, Bootstrap, Php, Sql, WordPress, Ux&Ui Design and Digital marketing.
 
-🇫🇮 Based in Tampere, Finland.
+🇫🇮 Based in Oulu, Finland.
 
 🗨 Finnish, English, Swedish and a bit Spanish.
 
