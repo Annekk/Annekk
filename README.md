@@ -4,7 +4,7 @@
 
 👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in the beginning of 2023.
 
-🤓 Studied Html, Css, JS, Bootstrap, Php, Sql, WordPress, Ux&Ui Design and Digital marketing.
+🤓 Studied Html, Css, JS, Bootstrap, Php, Sql, WordPress, Ux&Ui Design and Digital marketing. From repositories you can find out more.
 
 🇫🇮 Based in Oulu, Finland.
 
