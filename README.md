@@ -2,9 +2,9 @@
 
 🤍 I’m interested in Ux&Ui desing and digital marketing.
 
-👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in 12/2022.
+👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in the beginning of 2023.
 
-🤓 Learned Html, Css, JS, Bootstrap, Php, Sql, WordPress, Ux&Ui Design and Digital marketing.
+🤓 Studied Html, Css, JS, Bootstrap, Php, Sql, WordPress, Ux&Ui Design and Digital marketing.
 
 🇫🇮 Based in Oulu, Finland.
 
