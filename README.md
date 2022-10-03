@@ -4,6 +4,8 @@
 
 👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in the beginning of 2023.
 
+:pencil: Starting my thesis at the moment. The topic is UX&UI design related.
+
 🤓 Studied Html, Css, JS, Bootstrap, Php, Sql, WordPress, Ux&Ui Design and Digital marketing. From repositories you can find out more.
 
 🇫🇮 Based in Oulu, Finland.
