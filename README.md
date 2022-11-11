@@ -12,4 +12,6 @@
 
 🗨 Finnish, English, Swedish and a bit Spanish.
 
+🩺 Strong background as a health care professional in University Hospitals in Finland.
+
 👩🏻‍💼 LinkedIn: www.linkedin.com/in/anne-a-j-korhonen
