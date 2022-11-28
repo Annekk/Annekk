@@ -2,7 +2,7 @@
 
 🤍 I’m interested in Ux&Ui desing.
 
-👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in the beginning of 2023.
+👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in spring 2023.
 
 :pencil: Starting my thesis at the moment. The topic is UX&UI design related.
 
