@@ -8,7 +8,7 @@
 
 🤓 Studied Html, Css, JS, Bootstrap, Php, Sql, CMS:WordPress, Ux&Ui Design and Digital marketing. From repositories you can find out more.
 
-🇫🇮 Based in Oulu, Finland.
+🇫🇮 Based in Finland.
 
 🗨 Finnish, English, Swedish and a bit Spanish.
 
