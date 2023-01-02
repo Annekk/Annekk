@@ -4,7 +4,7 @@
 
 👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in spring 2023.
 
-:pencil: Starting my thesis at the moment. The topic is UX&UI design related.
+:pencil: Writing my thesis at the moment. The topic is UX&UI design related.
 
 🤓 Studied Html, Css, JS, Bootstrap, Php, Sql, CMS:WordPress, Ux&Ui Design and Digital marketing. From repositories you can find out more.
 
