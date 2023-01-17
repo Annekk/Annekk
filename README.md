@@ -1,6 +1,6 @@
 👋 Hi, I’m Anne Korhonen
 
-🤍 I’m interested in Ux&Ui desing.
+🤍 I’m the most interested in Ux&Ui and also service desing.
 
 👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in spring 2023.
 
