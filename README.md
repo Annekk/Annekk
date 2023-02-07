@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in 2023.
 
-🤓 Studied  UX&UI Design, Service Design, Digital marketing and coding. From repositories you can find out more.
+🤓 Studied  e.g. UX&UI Design, Service Design, Digital marketing and coding. From repositories you can find out more.
 
 :pencil: Just finished writing my thesis. The topic is UX&UI design related. Got a grade 5 (excellent).
 
