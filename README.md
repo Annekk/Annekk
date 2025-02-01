@@ -1,12 +1,12 @@
 👋 Hi, I’m Anne Korhonen
 
-👩🏻‍💻 I’m currently studying BBA - Business Information Systems and graduating in 2023.
+👩🏻‍💻 BBA - Business Information Systems and graduated 9/2023
 
 🤓 Studied  e.g. UX&UI Design, Service Design, Digital marketing, coding, networks and hardware. From repositories you can find out more.
 
-:pencil: Just finished writing my thesis. The topic is UX&UI design related. Got a grade 5 (excellent).
+:pencil: The topic of my thesis was UX&UI design related. Got a grade 5 (excellent).
 
-🇫🇮 Based in Finland. Able to relocate inside Finland.
+🇫🇮 Based in Finland. 
 
 🗨 Finnish, English, Swedish and a bit Spanish.
 
